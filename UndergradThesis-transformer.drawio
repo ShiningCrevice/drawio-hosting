@@ -50,7 +50,7 @@
           <mxGeometry height="20" width="20" x="400" y="150" as="geometry" />
         </mxCell>
         <mxCell id="f53_x5V_UliqIibuXlXV-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=light-dark(#636877,#EDEDED);labelBackgroundColor=none;rotation=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Residual Stream&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="162.36" x="190" y="116" as="geometry" />
+          <mxGeometry height="30" width="162.36" x="200" y="115" as="geometry" />
         </mxCell>
         <mxCell id="f53_x5V_UliqIibuXlXV-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: start;&quot;&gt;×N&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="46" x="420" y="206" as="geometry" />
